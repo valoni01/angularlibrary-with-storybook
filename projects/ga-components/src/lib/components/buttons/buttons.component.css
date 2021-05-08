@@ -1,0 +1,21 @@
+
+
+.custom-button-pink {
+  background-color: green;
+  padding: 0.2rem 4rem;
+  font-family: mont-bold;
+  font-weight: 700;
+  color: white;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 10px;
+  border-top-left-radius: 10px;
+  outline: none;
+  border: none;
+  border-top-right-radius: 10px;
+  position: relative;
+  margin-right: -5.4rem;
+  transition: 0.2s ease-out all;
+  height: 45px;
+
+
+}
